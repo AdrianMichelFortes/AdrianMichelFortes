@@ -15,4 +15,7 @@ Software engineering student 🦊
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+    <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div><br/>
